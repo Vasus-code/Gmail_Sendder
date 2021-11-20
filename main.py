@@ -5,7 +5,7 @@ class Mail():
     def __init__(self):
         """Initalization"""
         os.system('clear')
-        print("Works with gmail\n")
+        print("Works with gmai\n")
         print('You\'ve runned the best mail script!')
         print('Open this link \'https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4My3Re3q7mOkgWaFYrNBG6F85VW8jio7RJ299yk3aZJWw2DMhr9Si7GNbMoT2yrfe-fOobQjtCcpMPdTKoO4IhqirLtYQ\'\nand make it enable ')
         
